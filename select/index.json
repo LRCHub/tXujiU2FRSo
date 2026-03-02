@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミに100パーセント(アニメヴァージョン)",
+  "base_artist": "Kyary Pamyu Pamyu",
+  "createdAt": "2026-03-02T09:58:31.608860Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント - アニメヴァージョン",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_01_キミに100パーセント_-_アニメヴァージョン_きゃりーぱみゅぱみゅ.txt"
+    }
+  ]
+}
